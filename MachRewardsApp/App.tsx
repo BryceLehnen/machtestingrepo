@@ -70,7 +70,7 @@ function App(): JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <View style={styles.appTitleContainer}>
-            <Text style={styles.appTitle}>Mach Rewards</Text>
+            <Text style={styles.appTitle}>Mach Rewards App</Text>
           </View>
           <Section title="Features">What's coming in future releases</Section>
           <Section title="Reward Submissions">
